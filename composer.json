@@ -1,0 +1,26 @@
+{
+    "name": "mlsg/admin-layout",
+    "type": "library",
+    "description": "Admin Layout based on Bootstrap 4",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Malykhin Sergey",
+            "email": "malikin.sergey.1988@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Mlsg\\AdminLayout\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Mlsg\\AdminLayout\\AdminLayoutServiceProvider"
+            ]
+        }
+    }
+}
