@@ -41,7 +41,7 @@
 
         <div class="col-auto bg-light">
             <nav class="nav flex-column mt-3">
-                @include(config('admin-layout.main_menu'))
+                @include(config('dashboard.main_menu'))
             </nav>
 
         </div>

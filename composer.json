@@ -1,5 +1,5 @@
 {
-    "name": "mlsg/admin-layout",
+    "name": "mlsg/dashboard",
     "type": "library",
     "description": "Admin Layout based on Bootstrap 4",
     "license": "MIT",
@@ -19,7 +19,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Mlsg\\AdminLayout\\AdminLayoutServiceProvider"
+                "DashboardServiceProvider"
             ]
         }
     }
