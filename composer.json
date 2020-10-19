@@ -13,13 +13,13 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Mlsg\\AdminLayout\\": "src/"
+            "Mlsg\\Dashboard\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "DashboardServiceProvider"
+                "Mlsg\\Dashboard\\DashboardServiceProvider"
             ]
         }
     }

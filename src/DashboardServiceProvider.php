@@ -1,6 +1,6 @@
 <?php
 
-namespace Mlsg\AdminLayout;
+namespace Mlsg\Dashboard;
 
 use Illuminate\Support\ServiceProvider;
 
