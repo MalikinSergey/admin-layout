@@ -1,7 +1,7 @@
 {
     "name": "mlsg/dashboard",
     "type": "library",
-    "description": "Admin Layout based on Bootstrap 4",
+    "description": "Dashboard layout based on Bootstrap 4",
     "license": "MIT",
     "authors": [
         {
